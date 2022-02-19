@@ -1,0 +1,5 @@
+Name: Nishakar Kumar
+Roll: 20IE10019
+Room: E205
+Dept: Electrical Engineering
+Course: Instrumentation Engineering
